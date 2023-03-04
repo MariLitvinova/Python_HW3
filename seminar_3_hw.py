@@ -70,7 +70,7 @@
 # английские, либо только русские буквы
 
 # dict = {'AEIOULNSTRАВЕИНОРСТ':1, 'DGДКЛМПУ':2, 'BCMPБГЁЬЯ':3, 'FHVWYЙЫ':4, 'KЖЗХЦЧ':5, 'JZШЭЮ':8, 'QZФЩЪ':10}
-# word = input('Введите слово: ').upper()
+# word = input('Введите русское или английское слово: ').upper()
 # sum = 0
 # for i in word:
 #     for k, v in dict.items():
